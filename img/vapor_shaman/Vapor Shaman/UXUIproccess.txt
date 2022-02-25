@@ -1,0 +1,194 @@
+1.-STRATEGY
+-Definición del reto
+-Preguntas al cliente
+-Investigación de campo (Sobre competencia)
+-Rueda de compartir info (3min)
+-Mapa de necesidades y mapa de emociones
+
+
+
+
+2.-SCOPE
+-Historias de usuario
+-Protopersonas (todos)
+-Selección de protopersonas (Maggie y Roberto)
+-Generación de personas con info completa (personalidad, nivel técnico, etc)
+-Uso del Artefacto:  
+
+-Alinear necesidades de usuario y del negocio, uso del Artefacto:
+
+ 
+
+
+
+3.-STRUCTURE
+-Creación del Happy Path (con swimming lines y touchpoints)
+-Agregamos las emociones y se convirtió en nuestro Costumer Journey map.
+-Ejercicio de creatividad
+-Lluvia de ideas ¿Cómo podríamos?
+-Hacer gráfica de valor al usuario / Difícultad tecnológica
+-Escoger cuadrante que mayor valor al usuario le de y menos dificultad técnica tenga.
+
+
+
+4.-SKELETON
+
+-Creación de Sketches y por votación ZEN escoger los que mayor valor le den al usuario.
+
+-Hacer las pantallas de los touchpoints en el costumer journey
+
+
+
+5.-SURFACE
+
+-Pantallas  de prototipo
+
+
+
+
+  
+
+VAPE APP GENERAL INFORMATION
+Vapor Shaman is a small vaping company with a store located in the city of Aguascalientes and also an online store. The main purpose of a vape (also known as e-cigarette, electronic cigarette or vaporizer) is to encourage smokers to quit it once since for all, while enjoying all the vaping fun features. The most important thing is to make a friendly user app with an intuitive interface resulting in a great user experience covering all the user needs, therefore aesthetics come in to a second term. The app comes in a free version and in a $4-dollar lifetime membership.
+“Cigarette smoking is a powerful risk factor for cardiovascular disease (CVD) morbidity and mortality. Tar in cigarettes coats the lungs and can cause lung and throat cancer in smokers.”
+There are 3 main user targets that need to be covered:
+1.	Beginner Smoker:  Usually this type of smoker starts out at a young age seeing it as something cool and tries to fit in a social group. There are also post-traumatic experiences that lead to this sort of conduct.
+2.	Intermediate Smoker: For this type of smoker, smoking can become connected to other activities of the day-to-day life—like watching TV, talking on the phone, hanging out with friends, going certain places, or taking a break to relax. Then smoking becomes a part of a pattern or routine.
+3.	Long Term Smoker: This type of smoker passed through the beginner and intermediate phase/level a long time ago. He/she has even forgotten when they started out. They are always in need for smoking because of their mood swings or just for habit and pleasure. Quitting is hard for this people but there are many cases of success due to turning points such as health problems or interpersonal situations (death of a close friend or family).
+
+Many people smoke because it’s a way they’ve learned to cope with post-traumatic stress disorder (PTSD) symptoms, negative moods, and the stress of daily life. There are ways to deal with emotions without smoking. Counseling can teach you ways to cope, and getting support from loved ones can help, too. Therefore, Vapor Shaman wants to help all types of smokers by providing a new alternative for quitting.
+
+
+
+1.	RESEARCH
+Stakeholder: Aguascalientes Health Department
+Business Objective: Vapor Shaman is a small business located in the city of Aguascalientes. The main objective is to reach out to smokers in the state. At the same time, they want to sell the app and get the necessary diffusion from the health department (SSE) so they increase both in clients and sales. The benefit the government is receiving is an app to encourages young and old people to quit smoking by contributing to a health issue in the state.
+Vaping it's a luxury hobby, so the main idea is to get the right diffusion while the health department can provide the community constant special offers to shop in the local Vape Shaman store. The health department needs to be convinced that this app provides all the necessary information. To achieve this, the app needs to be user friendly while providing all the department needs for its funding. 
+
+2.	STRATEGY
+The Health Department wants information by doing field research with people who smoke at any level and people who have smoked.
+Here are some of the main questions (amongst others) that need to be asked to get to know better the people that smoke in the state.
+1.	How old are you?
+2.	What age did you try your first cigarette?
+3.	How long have you been smoking?
+4.	Why did you start smoking?
+5.	Have you tried to stop smoking?
+6.	If so, what alternatives have you used?
+7.	Have any of these alternatives helped?
+8.	How many cigarettes do you smoke on a daily-basis?
+9.	Which days do you smoke the most?
+10.	If we can provide a new alternative would you consider it?
+11.	Do you know the health problems it causes?
+RESULTS
+For the survey 1,000 people were interviewed:
+In Aguascalientes, 47% of the population claims to have used cigarettes at some time in their lives, according to a study by Vapor Shaman staff members, which presents information from the latest housing survey on knowledge and consumption of tobacco in Aguascalientes.
+
+
+But the most serious is the age of onset of consumption: the average age to start smoking is 13 years. 25% of respondents said that the first time they smoked was between 10 and 14 years, while the majority (42%) said they started using tobacco between 15 and 17 years. According to the staff members, the State of Aguascalientes is the entity with a high percentage of people (14.3%), between 10 and 19 years old, who have smoked more than 100 cigars. 
+ 
+Regarding the health problems it causes, most of the people surveyed said that tobacco smoking causes respiratory diseases and addiction. While half did not know that it causes sexual impotence, blindness and bone damage. 
+3.	COMPETITION
+For this information 100 persons were interviewed with the following questions, so they could talk about the current vaping stores.
+1.	What do you think about these stores? 
+2.	Do these stores provide information about vaping?
+3.	What do you think about their pricing on products?
+4.	Do any of these stores give special offers?
+5.	What do you think of their service?
+In Aguascalientes there are only 2 stores associated with the selling of vaping products. Both stores don’t have any sort of website or app that includes information for vaping and all there is to learn, on the contrary they use social media as their platform, but only for selling products. As many consumer posts on their social media a lot of people ask a lot of questions regarding, liquids, equipment and accessories. Focusing on the questions that were read, not too many get a quick response or none. Both stores lack of providing sufficient information.
+
+
+
+Name of the competition:
+1.	La Vaperia: Small business, pioneer on selling vaping equipment in the state. Having asked the previous questions, here are the results (based on general opinions):
+a.	This store provides medium to advanced equipment.
+b.	Not a lot of information is given, they sometimes give you some basic answers, but they seem more focused on selling than helping their customers.
+c.	In general, the prices are ok, there are some products that are cheaper to buy on the internet, but I don’t usually buy products online.
+d.	Special offers are very limited, they only have 2 seasons offering medium level discounts.
+e.	The service given it’s regular, not the best since they are more focused on selling, you don’t feel connected even though you are coming at least 1-2 times a week.
+
+2.	VaXti: Another small vaping store, doesn’t have a lot of time in the state.
+a.	This store provides a lot of vaping merchandise.
+b.	None, they don’t have a website and don’t have the right diffusion on social media.
+c.	Prices are great, most of the products are on point according on how they should be selled. 
+d.	As “La Vaperia” this store has the same season special offers, but they do offer random promotions throughout all months (buy 3 get one free, buy this mod and get batteries free).
+e.	Service is great, the people that run this place make you feel real comfortable. On the other hand, a big problem is that they close too early since the store is in “El Agropecuario” which is a big food and misc. market that closes at 5p.m. so not many people can get there for several reasons.
+
+Taking this in consideration Vapor Shaman can work out all the problems and take advantage on the weak points of these stores and also having a big plus by providing a mobile app where they can get all the information at any time.
+Points that need to be covered to compete against these stores:
+a.	Have a respectable medium to high merchandise
+b.	Provide all the necessary information, via social media, website and off course a mobile app.
+c.	Have a general standard for pricing not too high to scare customers nor to low so the store can have a profit.
+d.	Give a lot of special offers throughout the year (Health Department is a key for this point).
+e.	Always provide a great service, make this a motto so the customers feel accepted and giving them a great user experience. 
+
+4.	SCOPE - PERSONAS
+Three personas are going to be used for this UX process. Each one with 3 general levels of vaping giving them solutions for every type of these needs; Beginner, Intermediate and Pro or Advanced Vaper. Letting them know of a new app and service that can be provided here is what we know of them.
+PERSONA 1
+Name: Ruben Quezada
+-	Age: 32 years
+-	Level of studies: Bachelor’s in business administration
+-	Years of smoking:  18 years
+-	Personality: “Debater” (Smart and curious thinker who cannot resist an intellectual challenge.)
+-	Type of Smoker: Long term
+-	Type of Vaper: Beginner
+-	Challenges: Doesn’t know about vaping or where to buy from.
+-	Goals: Quit smoking for his health and wife.
+-	Targeted user: 30 years or above. People with several years of smoking, looking for a new alternative to quit. 30 years or above, medium to high salary.
+General Information: Long term smoker, looking for a new alternative to finally quit smoking. Ruben started smoking 18 years ago (smokes 2-3 packs a day) and has become part of his daily routine. He has tried different methods for quitting smoking; nicotine gum, prescription pills, nicotine patch. He found out about vaping recently, but he doesn't have a clue on what there is to know to get involved in the vaping world. His wife desperately wants him to stop smoking due to the smell.
+What are your needs?
+1.	New alternative to quit cigarettes.
+2.	Wants all the information needed to make vaping a routine
+3.	Innovative App: Needs to be fast, user friendly, aesthetics come in to a second term.
+4.	Include some type of beginners guide for the app.
+5.	E-Liquid information.
+
+PERSONA 2
+Name: Gustavo Santoyo
+-	Age: 26 years
+-	Level of studies: Bachelor’s in stomatology, mayor odontology
+-	Years of smoking:  7 years
+-	Personality: “Entrepreneur” (Smart, energetic and very perceptive people, who truly enjoys living on the edge.)
+-	Type of Smoker: Intermediate
+-	Type of Vaper: Intermediate
+-	Challenges: Has been vaping for 3 years now (while also smoking), knows basic to intermediate vape theory, but still wants to learn more to make this a hobby and at the same time quit smoking.
+-	Goals: Learn more about vaping.
+-	Targeted user: People with intermediate level of smoking (half a pack per day), Intermediate vaper looking for more information on vaping. 22-29 years, medium salary.
+General Information: Reduced significantly on the number of cigarettes smoked on a day since he started to vape. Enjoys vaping but still wants to learn more details on vaping theory so he can enjoy at its full potential the vape scene and consider quitting once since for all.
+What are your needs?
+1.	Wants more vaping information.
+2.	Fresh look, something appealing and easy to use
+3.	Wants an online store.
+4.	On hand app: Wants an app right at the moment when he has a doubt or concern. Types of materials, coils, cottons, batteries.
+5.	New features to build new resistances.
+6.	Personal Library
+
+PERSONA 3
+Name: Daniel Bernal
+-	Age: 18 years
+-	Level of studies: Just finished high school 
+-	Years of smoking:  3 years
+-	Personality: “Adventurer” (Flexible and charming artist, always ready to explore and experience something new.)
+-	Type of Smoker: Beginner
+-	Type of Vaper: Advanced
+-	Challenges: Parents & money.
+-	Goals: Make parents proud by quitting smoking.
+-	Targeted user: Beginner level of smoking, advanced vaper (4 cigarettes a day), looking for more information on vaping. 14-21 years, medium salary.
+General Information: Started out smoking by social pressure trying to fit in with his social circles. His parents are not happy about him starting out to smoke, they are willing to help him out by covering the cost of vaping, so he can set aside this terrible addiction. He was grown in a technological era where he can search a lot of information online, so he knows exactly where to find vaping information and merchandise.
+What are your needs?
+1.	Wants to find a community to exchange vape information.
+2.	Wants a user-friendly app.
+3.	Tools to make great resistances (converters, ohms law and coil builder)
+4.	Looks are a plus but he wants the social interaction he is looking for
+5.	Big amount of merchandise.
+6.	Resistance Builds Library
+7.	Special Offers
+ALIGMENT
+Having 3 different personas with different needs, we must take all this in consideration while aligning them in to the product. Considering Vapor Shaman already has an online store, we can use the app to cover the needs of the personas, while also direct them to the online store.
+Points that need to be covered on the app:
+1.	Provide all the necessary information, via social media, website and off course a mobile app.
+2.	Redirect them to the online store
+3.	User Friendly app
+4.	Social Interaction
+5.	Fresh look, aesthetics come in a second term, but it would be a “nice to have”
+6.	Necessary tools associated with vaping (Coil builder, ohms setup, converters)
+7.	Library with general vaping information

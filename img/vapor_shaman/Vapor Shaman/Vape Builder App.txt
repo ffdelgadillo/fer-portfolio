@@ -1,0 +1,33 @@
+Vape Builder App (VAPOR SHAMAN)
+Aesthtetics come in to a second term, the most important thing is to make a friendly user app that covers the 3 main user targets with its information. m
+
+Application is free of use on it's begginer mode (some basic yet important features are included on app). To buy app you would upgrade account (material includes advanced customs builds, full e-liquid recipe library, more library saves catalog and user chat) (iOS & Android). 
+
+Mainly focused on people who start to smoke at a young age, but also we focus on a second term on people who are trying to quit smoking
+---------------------
+
+- 3 PERSONAS / USER CASES:
+Features the user would want on an app:
+Fast, Easy, User intuitive, Innovatiove
+
+Beginner Vaper: X number of years smoking, looking for an alternative to quit smoking
+
+Ruben started smoking 13 years ago (smokes 2-3 packs a day)and has tried different methods for quitting smoking; nicotine gum, prescription pills, nicotine patch. He found out about vaping but he doesn't have a clue all there is to know when starting out in the vape world. 
+Targeted users: People with several years of smoking and loooking for a new alternative and has no clue about vaping.
+
+Intermediate Vaper: Reduced significtantly on the amount of cigarretes smoked on a day, he starts to enjoy vaping but still wants to learn more details on vaping theory so he can enjoy at its full potential the vape scene.
+
+Daniel Smokes 1-3 cigarretes a week (usually weekends), he is starting to make his vape usage into a hobby. He is still intrigued on all the theory behind, he knows basic to intermidiate theory.
+Targeted users: become a vape guru and make vaping a hobby, while quit smoking and finding new ways on enjoying vape related things.
+
+Pro Vaper: Vaper enthusiast, quitted smoking.
+
+Fernando quitted smoking after being a long term smoker. Vaping is know a hobby for him, he knows everything there is to know about vape theory but still wants to find new things that he can interact to like exchanging recipes (either coil build or e-liquid).
+
+Targeted users: Vaper enthusiasts looking to exchange tips and new ways to have a better time while vaping.
+
+Research vape theory, vape products and vaping forums. Find and analyze similar apps.
+
+
+
+  

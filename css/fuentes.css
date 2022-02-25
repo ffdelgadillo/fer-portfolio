@@ -1,0 +1,86 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+
+body {
+	background: #1a1a1a;
+	font-family: Jaapokki-Regular, Alakob, BRLNSR;
+	font-size: 16px;
+}
+
+@font-face {
+  font-family: 'Alako';
+  src: url('http://www.fontsaddict.com/fontface/alako.ttf');
+}
+
+@font-face {
+	font-family: Jaapokki-Regular;
+	src:url('../fonts/Jaapokki-Regular.otf') format('opentype');
+}
+
+
+
+@font-face {
+	font-family: BRLNSDB;
+	src:url('..fonts/BRLNSDB.TTF') format('truetype');
+}
+
+
+@font-face{ 
+src:url(&quot;../fonts/BRLNSR.TTF&quot;); 
+font-family:&quot;Berlin Sans FB&quot;; 
+font-weight:normal; 
+} 
+
+/* ----- ----- HEADER ----- ----- */
+
+header{
+	margin:50px;
+	text-align: right;
+	font-family: Jaapokki-Regular;
+}
+
+header .contenedor .menu a{
+	color: #919fa4;
+	text-decoration: none;
+	text-transform: uppercase;
+	margin-right: 10px;
+
+}
+
+header .contenedor .menu a:hover{
+	color: #0f9591;
+}
+
+header .fd-title{
+	padding:20px 0 0 0px;
+}
+
+header .fd-title img{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+/* ----- ----- TITULO ----- ----- */
+
+.ferdelga h1{
+	color: #0f9591;
+	font-family: Alako;
+	font-size: 120px;
+	text-align: center;
+	
+}
+
+.ferdelga h2{
+    color: #919fa4;
+    letter-spacing: 8px;
+    text-align: center;
+    font-family: Berlin Sans FB Regular;
+    font-weight: 100;
+    margin-top: -31px;
+}
